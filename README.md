@@ -1,5 +1,7 @@
-Assignment: Description
+Assignment: 14 
 ===========================
+
+# Description
 
 The starting point for this project is the Polygon class and the Polygons sequence type we created in the previous project.
 
